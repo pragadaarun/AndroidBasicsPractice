@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">సాధన</string>
+    <string name="welcome">హలో వరల్డ్ చిత్రం</string>
+    <string name="welcome_landscape">హలో వరల్డ్ ప్రకృతి దృశ్యం</string>
+    <string name="increment">పెంచు</string>
+    <string name="_0">0</string>
+
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">अभ्यास</string>
+    <string name="welcome">नमस्ते दुनिया चित्र</string>
+    <string name="welcome_landscape">नमस्ते दुनिया परिदृश्य</string>
+    <string name="increment">बढ़ना</string>
+    <string name="_0">0</string>
+</resources>
